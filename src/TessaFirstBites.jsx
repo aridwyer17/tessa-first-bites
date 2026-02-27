@@ -43,9 +43,9 @@ const NB=[
   {wk:[3],w:"🔧 Day 17 evening — Make Pecan Butter from Scratch",t:"You'll need this for pecan introduction Day 18. INGREDIENTS: 1 cup raw pecan halves, ½ tsp neutral oil. STEPS: 1) Toast pecans at 350°F for 8 min. Watch carefully — pecans go from perfect to burnt quickly! 2) Let cool 5 min. Pour into food processor. 3) Process 8–10 min, scraping sides every 2 min. Pecans are very oily — this is one of the fastest and smoothest! You may not even need added oil. 4) Result: rich, dark, incredibly smooth butter. 5) Scoop into jar. Label: 'Pecan Butter' + date. YIELD: ~½ cup. STORAGE: 2 weeks fridge."},
   {wk:[3],w:"🔧 Day 17 evening — Make Pine Nut Butter from Scratch",t:"You'll also need this for pine nut introduction Day 17. INGREDIENTS: 1 cup raw pine nuts, ½ tsp neutral oil. STEPS: 1) NO TOASTING NEEDED — pine nuts burn very easily. Use raw. 2) Pour into food processor. 3) Process 3–5 min, scraping sides every 1 min. Pine nuts are VERY oily — this is the fastest nut butter! It may be ready in just 3 min. 4) Add ½ tsp oil only if needed. 5) Result: pale, creamy, mild butter. 6) Scoop into jar. Label: 'Pine Nut Butter' + date. YIELD: ~⅓ cup. STORAGE: 1 WEEK fridge only — pine nut butter goes rancid faster than other nut butters. Make small batches. TIP: Buy pine nuts from a bulk bin or Trader Joe's — they can be pricey elsewhere."},
   {wk:[3],w:"Week 3, Day 20 — Make FRESH SEVEN-NUT BLEND (Final!) 🎉",t:"DISCARD old blend. This is the FINAL recipe you'll use for the rest of the plan! GET A CLEAN JAR. Measure and add: 2 tablespoons each of — PB (jar), almond butter (jar), homemade walnut, homemade hazelnut, homemade pistachio, homemade pecan, homemade pine nut butter. That's 14 tablespoons total (~⅞ cup). Stir very well until completely uniform. Label: 'SEVEN-NUT BLEND' + date. One teaspoon gives Tessa equal exposure to all 7 nuts at once! Keeps 2 weeks in fridge. NOTE: Pine nut butter goes rancid faster — use blend within 1 week if possible, or make a fresh pine nut butter batch when refreshing."},
-  {wk:[4,5,6,7,8],w:"Weeks 4–8 — Fresh Blend Recipe (every 2 weeks)",t:"When the jar runs low or hits 2 weeks old, make a fresh batch. You'll need to re-make any homemade butters that have run out. GET A CLEAN JAR. Measure and add: 2 tablespoons each of PB (jar), almond butter (jar), homemade walnut, homemade hazelnut, homemade pistachio, homemade pecan, homemade pine nut butter = 14 tablespoons (~⅞ cup). Stir very well until completely uniform. Label: 'SEVEN-NUT BLEND' + today's date. Fridge. Makes enough for ~2 weeks at 1 tsp/day. TO SERVE EACH DAY: 1 tsp blend + 1 tsp breast milk → stir until runny → swirl into mashed pancake, yogurt, or sweet potato. TIP: Make all 5 homemade butters in one session — about 50 min total. They each keep 2 weeks (pine nut keeps 1 week)."},
+  {wk:[4,5,6,7,8],w:"Weeks 4–8 — Fresh Blend Recipe (every 2 weeks)",t:"When the jar runs low or hits 2 weeks old, make a fresh batch. You'll need to re-make any homemade butters that have run out. GET A CLEAN JAR. Measure and add: 2 tablespoons each of PB (jar), almond butter (jar), homemade walnut, homemade hazelnut, homemade pistachio, homemade pecan, homemade pine nut butter = 14 tablespoons (~⅞ cup). Stir very well until completely uniform. Label: 'SEVEN-NUT BLEND' + today's date. Fridge. Makes enough for ~2 weeks at 1 tsp/day. TO SERVE EACH DAY: 1 tsp blend + 1 tsp yogurt → stir until runny → swirl into mashed pancake, yogurt, or sweet potato. TIP: Make all 5 homemade butters in one session — about 50 min total. They each keep 2 weeks (pine nut keeps 1 week)."},
   {wk:[4,5,6,7,8],w:"🔧 Homemade Nut Butter Batch Session (~50 min)",t:"Every 2 weeks when you refresh the blend, you'll need fresh homemade butters. Do all 5 in one session: WALNUT (10 min): 1 cup raw walnuts → toast 8 min → food processor 10 min + ½ tsp oil → jar. HAZELNUT (12 min): 1 cup raw hazelnuts → toast 10 min → rub skins off in towel → process 10 min → jar. PISTACHIO (15 min): 1 cup shelled pistachios → toast 6 min at 325°F → process 12–15 min + ½ tsp oil → jar. PECAN (8 min): 1 cup pecan halves → toast 8 min → process 8 min → jar. PINE NUT (5 min): 1 cup raw pine nuts → NO TOASTING → process 3–5 min → jar. WIPE food processor between each nut with paper towel (no need to wash). Total yield: ~2.5 cups across 5 jars. Each lasts 2 weeks in fridge (pine nut 1 week)."},
-  {wk:[3,4,5,6,7,8],w:"🥞 Allergen Pancake Batch (Day 20, refresh every 2 weeks)",t:"These pancakes contain 10 allergens in one! INGREDIENTS: 1 cup whole wheat flour, 2 large eggs, 2 tablespoons seven-nut blend (from the jar), 2 tablespoons tahini, ¾ to 1 cup breast milk, ½ tsp butter or oil. STEPS: Whisk 2 eggs in a large bowl. Add 2 tbsp seven-nut blend and 2 tbsp tahini — stir well (will be thick). Add 1 cup flour, stir. Add ¾ cup breast milk, stir until batter is thick-yogurt consistency (add more milk if needed). Heat non-stick pan on medium-low with tiny butter. Pour ~2 tbsp batter per pancake (palm-size). Cook 2–3 min until bubbles appear, flip, 1–2 min more. Makes ~12. Cool completely. TO FREEZE: Lay flat on parchment-lined baking sheet, freeze 1–2 hrs, transfer to freezer bag. Label: 'Allergen Pancakes — 10 allergens — DATE'. TO SERVE: Defrost overnight in fridge OR microwave 20–30 sec. Tear into pieces, mash with 1–2 tbsp breast milk."},
+  {wk:[3,4,5,6,7,8],w:"🥞 Allergen Pancake Batch (Day 20, refresh every 2 weeks)",t:"These pancakes contain 10 allergens in one! INGREDIENTS: 1 cup whole wheat flour, 2 large eggs, 2 tablespoons seven-nut blend (from the jar), 2 tablespoons tahini, ¾ to 1 cup yogurt, ½ tsp butter or oil. STEPS: Whisk 2 eggs in a large bowl. Add 2 tbsp seven-nut blend and 2 tbsp tahini — stir well (will be thick). Add 1 cup flour, stir. Add ¾ cup yogurt, stir until batter is thick-yogurt consistency (add more milk if needed). Heat non-stick pan on medium-low with tiny butter. Pour ~2 tbsp batter per pancake (palm-size). Cook 2–3 min until bubbles appear, flip, 1–2 min more. Makes ~12. Cool completely. TO FREEZE: Lay flat on parchment-lined baking sheet, freeze 1–2 hrs, transfer to freezer bag. Label: 'Allergen Pancakes — 10 allergens — DATE'. TO SERVE: Defrost overnight in fridge OR microwave 20–30 sec. Tear into pieces, mash with 1–2 tbsp yogurt."},
 ];
 
 const WI={
@@ -158,58 +158,58 @@ steps:["DISCARD old PB-Almond jar (or keep for yourself!). Make FRESH jar: 1 tbs
 {dish:2,food:"egg",r:{n:"Mashed Egg (BOIL FRESH!)",tm:"20 min",ing:["4 eggs (→ Days 14-17)","breast milk"],steps:["Fresh batch. Mash 2 quarters."],store:"3 days.",mod:""}}],edu:["repeat"]},
 {d:15,w:3,t:"Hazelnut Intro + Dairy + Nut Blend + Wheat",items:[
 {dish:1,food:"hazelnut",r:{n:"Hazelnut Butter — First Taste",tm:"5 min",
-ing:["2 tsp hazelnut butter","1 tsp breast milk"],
+ing:["2 tsp hazelnut butter","1 tsp yogurt"],
 steps:["Thin. Fingertip. Watch 10–15 min. STAY HOME 2 hours."],
 store:"2 weeks.",mod:"Don't use Nutella — mostly sugar + milk/soy."}},
 {dish:2,food:"dairy",r:{n:"Yogurt",tm:"1 min",ing:["3 oz yogurt"],steps:["Alongside."],store:"",mod:""}},
-{dish:3,food:"peanut",r:{n:"Triple-Nut Blend in Pancake",tm:"3 min",ing:["1 defrosted pancake","1 tsp triple-nut blend","breast milk"],steps:["Serve."],store:"",mod:""}}],edu:["reaction"]},
+{dish:3,food:"peanut",r:{n:"Triple-Nut Blend in Pancake",tm:"3 min",ing:["1 defrosted pancake","1 tsp triple-nut blend","yogurt"],steps:["Serve."],store:"",mod:""}}],edu:["reaction"]},
 {d:16,w:3,t:"Pistachio Intro + Four-Nut + Sesame + Wheat",items:[
 {dish:1,food:"pistachio",r:{n:"Pistachio Butter — First Taste",tm:"5 min",
-ing:["2 tsp pistachio butter","1 tsp breast milk"],
+ing:["2 tsp pistachio butter","1 tsp yogurt"],
 steps:["Thin. Fingertip. Watch 10–15 min. STAY HOME 2 hours."],
 store:"2 weeks.",mod:"Make: 1 cup raw pistachios + ½ tsp oil, process 4–5 min."}},
 {dish:2,food:"peanut",r:{n:"Four-Nut Blend (+hazelnut!) in Pancake",tm:"5 min",
-ing:["FRESH JAR: 1 tbsp each PB, almond, walnut, hazelnut","1 tsp blend","1 defrosted pancake","breast milk"],
-steps:["DISCARD old blend. FRESH jar: 1 tbsp each of PB, almond, walnut, hazelnut = 4 tbsp. Stir well. Label: Four-Nut Blend + date.","Defrost pancake, mash with breast milk. Thin 1 tsp blend and swirl in."],store:"2 weeks.",mod:""}},
-{dish:3,food:"sesame",r:{n:"Tahini Drizzle on Pancake",tm:"3 min",ing:["1 tsp tahini","1 defrosted pancake","breast milk"],steps:["Defrost pancake, mash with breast milk. Thin tahini and drizzle on top."],store:"",mod:""}}],edu:["reaction"]},
+ing:["FRESH JAR: 1 tbsp each PB, almond, walnut, hazelnut","1 tsp blend","1 defrosted pancake","yogurt"],
+steps:["DISCARD old blend. FRESH jar: 1 tbsp each of PB, almond, walnut, hazelnut = 4 tbsp. Stir well. Label: Four-Nut Blend + date.","Defrost pancake, mash with yogurt. Thin 1 tsp blend and swirl in."],store:"2 weeks.",mod:""}},
+{dish:3,food:"sesame",r:{n:"Tahini Drizzle on Pancake",tm:"3 min",ing:["1 tsp tahini","1 defrosted pancake","yogurt"],steps:["Defrost pancake, mash with yogurt. Thin tahini and drizzle on top."],store:"",mod:""}}],edu:["reaction"]},
 {d:17,w:3,t:"Pine Nut Introduction + 5-Nut + Egg + Dairy",items:[
 {dish:1,food:"pine_nut",r:{n:"Pine Nut Butter — First Taste",tm:"5 min",
-ing:["2 tsp pine nut butter (or ground pine nuts thinned with oil)","1 tsp breast milk"],
-steps:["Thin pine nut butter with breast milk until smooth and runny.","Offer on fingertip. Watch 10–15 min. STAY HOME 2 hours.","If clear, offer more on preloaded spoon."],
+ing:["2 tsp pine nut butter (or ground pine nuts thinned with oil)","1 tsp yogurt"],
+steps:["Thin pine nut butter with yogurt until smooth and runny.","Offer on fingertip. Watch 10–15 min. STAY HOME 2 hours.","If clear, offer more on preloaded spoon."],
 store:"1 week fridge — pine nut butter goes rancid faster than other nuts.",mod:"Make: 1 cup raw pine nuts + ½ tsp oil in food processor 3–5 min. Very oily — processes fast! Or buy pre-made. Store-bought is fine."}},
 {dish:2,food:"peanut",r:{n:"Five-Nut Blend (+pistachio!)",tm:"5 min",
-ing:["FRESH JAR: 1 tbsp each PB, almond, walnut, hazelnut, pistachio","1 tsp blend","1 defrosted pancake","breast milk"],
-steps:["DISCARD old blend. FRESH jar: 1 tbsp each of PB, almond, walnut, hazelnut, pistachio = 5 tbsp. Stir well. Label: Five-Nut Blend + date.","Defrost pancake, mash with breast milk. Thin 1 tsp blend and swirl in."],store:"",mod:""}},
-{dish:3,food:"egg",r:{n:"Mashed Egg",tm:"5 min",ing:["1 egg from Day 14 batch (check date!)","breast milk"],steps:["If expired, boil fresh. Mash 2-3 quarters. Can mix into yogurt."],store:"",mod:""}},
+ing:["FRESH JAR: 1 tbsp each PB, almond, walnut, hazelnut, pistachio","1 tsp blend","1 defrosted pancake","yogurt"],
+steps:["DISCARD old blend. FRESH jar: 1 tbsp each of PB, almond, walnut, hazelnut, pistachio = 5 tbsp. Stir well. Label: Five-Nut Blend + date.","Defrost pancake, mash with yogurt. Thin 1 tsp blend and swirl in."],store:"",mod:""}},
+{dish:3,food:"egg",r:{n:"Mashed Egg",tm:"5 min",ing:["1 egg from Day 14 batch (check date!)","yogurt"],steps:["If expired, boil fresh. Mash 2-3 quarters. Can mix into yogurt."],store:"",mod:""}},
 {dish:3,food:"dairy",r:{n:"Yogurt",tm:"1 min",ing:["3 oz yogurt"],steps:["Alongside or mix egg in."],store:"",mod:""}}],edu:["reaction"]},
 {d:18,w:3,t:"Pecan Introduction + Nut Blend + Wheat",items:[
 {dish:1,food:"pecan",r:{n:"Pecan Butter — First Taste",tm:"5 min",
-ing:["2 tsp pecan butter","1 tsp breast milk"],
-steps:["Thin pecan butter with breast milk until smooth and runny.","Offer on fingertip. Watch 10–15 min. STAY HOME 2 hours.","If clear, offer more on preloaded spoon."],
+ing:["2 tsp pecan butter","1 tsp yogurt"],
+steps:["Thin pecan butter with yogurt until smooth and runny.","Offer on fingertip. Watch 10–15 min. STAY HOME 2 hours.","If clear, offer more on preloaded spoon."],
 store:"2 weeks fridge.",mod:"Make: grind 1 cup raw pecans + ½ tsp oil in food processor 3–5 min."}},
 {dish:2,food:"peanut",r:{n:"Five-Nut Blend in Pancake",tm:"5 min",
-ing:["1 tsp five-nut blend","1 defrosted pancake","breast milk"],
-steps:["Defrost pancake, mash with breast milk. Thin 1 tsp blend and swirl in. Pecan & pine nut served separately — need 2nd exposure before joining blend."],store:"",mod:""}},
-{dish:2,food:"wheat",r:{n:"Defrosted Pancake",tm:"3 min",ing:["1 defrosted pancake","breast milk"],steps:["Defrost, mash with breast milk. Serve alongside."],store:"",mod:""}}],edu:["reaction"]},
+ing:["1 tsp five-nut blend","1 defrosted pancake","yogurt"],
+steps:["Defrost pancake, mash with yogurt. Thin 1 tsp blend and swirl in. Pecan & pine nut served separately — need 2nd exposure before joining blend."],store:"",mod:""}},
+{dish:2,food:"wheat",r:{n:"Defrosted Pancake",tm:"3 min",ing:["1 defrosted pancake","yogurt"],steps:["Defrost, mash with yogurt. Serve alongside."],store:"",mod:""}}],edu:["reaction"]},
 {d:19,w:3,t:"Shellfish Introduction + Pecan + Pine Nut",items:[
 {dish:1,food:"shellfish",r:{n:"Shrimp Puree — First Taste",tm:"15 min",
 ing:["6–8 medium shrimp, raw (batch — extras for Week 4)","Small pot of water"],
-steps:["Thaw if frozen (cold water bowl 10–15 min). Pat dry.","Boil ALL shrimp 3–4 min until pink and curl into a C shape.","Drain. Cool under cold running water.","Peel off shells. Pull off tails.","For Tessa: 2 shrimp + 1 tbsp breast milk. Mash VERY smooth with fork.","Offer tiny amount on spoon. Watch 10–15 min. STAY HOME 2 hours.","If clear, offer more.","Store remaining shrimp for Week 4 meals."],
+steps:["Thaw if frozen (cold water bowl 10–15 min). Pat dry.","Boil ALL shrimp 3–4 min until pink and curl into a C shape.","Drain. Cool under cold running water.","Peel off shells. Pull off tails.","For Tessa: 2 shrimp + 1 tbsp yogurt. Mash VERY smooth with fork.","Offer tiny amount on spoon. Watch 10–15 min. STAY HOME 2 hours.","If clear, offer more.","Store remaining shrimp for Week 4 meals."],
 store:"Cooked peeled: 3 days fridge, 2 months freezer.",mod:"Buy raw shell-on (not pre-cooked). Medium size easiest."}},
 {dish:2,food:"pecan",r:{n:"Pecan Butter (2nd exposure — joins blend tomorrow!)",tm:"3 min",
-ing:["1 tsp pecan butter","breast milk"],
+ing:["1 tsp pecan butter","yogurt"],
 steps:["Thin pecan butter. Serve on spoon. 2nd safe exposure!"],store:"",mod:""}},
 {dish:3,food:"pine_nut",r:{n:"Pine Nut Butter (2nd exposure — joins blend tomorrow!)",tm:"3 min",
-ing:["1 tsp pine nut butter","breast milk"],
+ing:["1 tsp pine nut butter","yogurt"],
 steps:["Thin pine nut butter. Serve on spoon. 2nd safe exposure!"],store:"",mod:""}},
 {dish:4,food:"peanut",r:{n:"Five-Nut Blend in Pancake",tm:"5 min",
-ing:["1 tsp five-nut blend","1 defrosted pancake","breast milk"],
-steps:["Defrost pancake, mash with breast milk. Thin blend and swirl in."],store:"",mod:""}}],edu:["reaction","fpies"]},
+ing:["1 tsp five-nut blend","1 defrosted pancake","yogurt"],
+steps:["Defrost pancake, mash with yogurt. Thin blend and swirl in."],store:"",mod:""}}],edu:["reaction","fpies"]},
 {d:20,w:3,t:"🥞 Allergen Pancake Batch Day!",items:[
 {dish:1,food:"peanut",r:{n:"SEVEN-NUT BLEND + ALLERGEN PANCAKE BATCH",tm:"30 min",
-ing:["FRESH JAR: 2 tbsp each of PB, almond, walnut, hazelnut, pistachio, pecan, pine nut → SEVEN-NUT BLEND 🎉","PANCAKE BATCH: 1 cup whole wheat flour","2 eggs","2 tbsp seven-nut blend","2 tbsp tahini","¾–1 cup breast milk","½ tsp butter/oil"],
-steps:["FIRST: DISCARD old Five-Nut jar. Make FINAL blend in a CLEAN jar: 2 tbsp each of PB, almond, walnut, hazelnut, pistachio, pecan, pine nut butter = 14 tbsp total (~⅞ cup). Stir well. Label: SEVEN-NUT BLEND + date.","NOW PANCAKE BATCH — 10 allergens in one!","Whisk 2 eggs. Add 2 tbsp seven-nut blend + 2 tbsp tahini. Stir.","Add 1 cup whole wheat flour. Stir.","Add ¾ cup breast milk. Stir until thick-yogurt batter (add more if needed).","Non-stick pan MEDIUM-LOW. Tiny butter.","~2 tbsp batter per pancake (palm-size). Cook 2–3 min → flip → 1–2 min.","Makes ~12 pancakes. Cool completely.","FOR TESSA TODAY: Tear 1–2 pancakes, mash with breast milk. Spoon + finger food piece.","TO FREEZE: Lay flat on parchment-lined sheet. Freeze 1–2 hrs. Transfer to bag. Label: 'Allergen Pancakes — 10 allergens — DATE'.","Keeps 2 MONTHS frozen. Refresh every 2 weeks with nut blend."],
-store:"Freezer: 2 months. Fridge: 3 days. TO SERVE: Defrost overnight in fridge OR microwave 20–30 sec. Tear & mash with breast milk.",
+ing:["FRESH JAR: 2 tbsp each of PB, almond, walnut, hazelnut, pistachio, pecan, pine nut → SEVEN-NUT BLEND 🎉","PANCAKE BATCH: 1 cup whole wheat flour","2 eggs","2 tbsp seven-nut blend","2 tbsp tahini","¾–1 cup yogurt","½ tsp butter/oil"],
+steps:["FIRST: DISCARD old Five-Nut jar. Make FINAL blend in a CLEAN jar: 2 tbsp each of PB, almond, walnut, hazelnut, pistachio, pecan, pine nut butter = 14 tbsp total (~⅞ cup). Stir well. Label: SEVEN-NUT BLEND + date.","NOW PANCAKE BATCH — 10 allergens in one!","Whisk 2 eggs. Add 2 tbsp seven-nut blend + 2 tbsp tahini. Stir.","Add 1 cup whole wheat flour. Stir.","Add ¾ cup yogurt. Stir until thick-yogurt batter (add more if needed).","Non-stick pan MEDIUM-LOW. Tiny butter.","~2 tbsp batter per pancake (palm-size). Cook 2–3 min → flip → 1–2 min.","Makes ~12 pancakes. Cool completely.","FOR TESSA TODAY: Tear 1–2 pancakes, mash with yogurt. Spoon + finger food piece.","TO FREEZE: Lay flat on parchment-lined sheet. Freeze 1–2 hrs. Transfer to bag. Label: 'Allergen Pancakes — 10 allergens — DATE'.","Keeps 2 MONTHS frozen. Refresh every 2 weeks with nut blend."],
+store:"Freezer: 2 months. Fridge: 3 days. TO SERVE: Defrost overnight in fridge OR microwave 20–30 sec. Tear & mash with yogurt.",
 mod:"No new allergen today — just completing the blend and making the batch! Each pancake = wheat, egg, PB, almond, walnut, hazelnut, pistachio, pecan, pine nut, sesame."}},
 {dish:1,food:"egg",r:{n:"(In pancakes)",tm:"0 min",ing:["Included above"],steps:["Batch uses 2 eggs."],store:"",mod:""}},
 {dish:1,food:"sesame",r:{n:"(Tahini in pancakes)",tm:"0 min",ing:["Included above"],steps:["Batch uses 2 tbsp tahini."],store:"",mod:""}}],edu:["family"]},
@@ -220,23 +220,23 @@ steps:["Open package. Drain the liquid.","Scoop ~2 tbsp into a small bowl.","Mas
 store:"Opened tofu in water: 3 days fridge. Will be used in Week 4.",
 mod:"Soy yogurt or boiled edamame (shell, mash) work too. ALL 14 ALLERGENS NOW INTRODUCED! 🎉"}},
 {dish:2,food:"dairy",r:{n:"Yogurt",tm:"1 min",ing:["3 oz yogurt"],steps:["Serve alongside tofu on separate spoon."],store:"",mod:""}},
-{dish:3,food:"wheat",r:{n:"Defrosted Allergen Pancake",tm:"3 min",ing:["1–2 pancakes from freezer","breast milk"],steps:["Defrost (overnight in fridge or microwave 20–30 sec). Tear, mash with breast milk. WEEK 3 COMPLETE! 🎊 All 14 allergens introduced!"],store:"",mod:""}}],edu:["repeat"]},
+{dish:3,food:"wheat",r:{n:"Defrosted Allergen Pancake",tm:"3 min",ing:["1–2 pancakes from freezer","yogurt"],steps:["Defrost (overnight in fridge or microwave 20–30 sec). Tear, mash with yogurt. WEEK 3 COMPLETE! 🎊 All 14 allergens introduced!"],store:"",mod:""}}],edu:["repeat"]},
 ];
 
 // WEEKS 4-8 REVISED ORDER: nutrient-dense carriers first, mango+pepper on weekends
 const W48=[
 // WEEK 4 — Foundation Carriers
 {d:22,w:4,t:"Sweet Potato",nf:"Sweet Potato 🍠",nt:"🩸 Iron · Vitamin A",meals:[
-{tm:"AM",n:"Sweet Potato + Allergen Pancake",r:"BATCH STEAM: Peel 2 medium sweet potatoes, cut into finger-length spears. Steam 12–15 min until fork slides through. Serve 2–3 spears as finger food. DEFROST 1–2 ALLERGEN PANCAKES: mash with breast milk. Save rest of sweet potato (Days 22, 24). BOIL 6 EGGS (→ Days 22-24).",items:["sweet_potato","peanut","egg","wheat","sesame"]},
+{tm:"AM",n:"Sweet Potato + Allergen Pancake",r:"BATCH STEAM: Peel 2 medium sweet potatoes, cut into finger-length spears. Steam 12–15 min until fork slides through. Serve 2–3 spears as finger food. DEFROST 1–2 ALLERGEN PANCAKES: mash with yogurt. Save rest of sweet potato (Days 22, 24). BOIL 6 EGGS (→ Days 22-24).",items:["sweet_potato","peanut","egg","wheat","sesame"]},
 {tm:"PM",n:"Nut Yogurt + Sweet Potato",r:"Thin 1 tsp seven-nut blend, swirl into yogurt. Leftover sweet potato spears. Tahini drizzle on sweet potato for extra sesame exposure.",items:["dairy","peanut","sesame"]}]},
 {d:23,w:4,t:"Avocado",nf:"Avocado 🥑",nt:"🥑 Healthy Fats",meals:[
 {tm:"AM",n:"Avocado Two Ways + Pancake",r:"Halve ripe avocado. One half: leave whole for Tessa to scoop/gnaw. Other: mash and mix with mashed pancake for a creamy texture. Egg from batch.",items:["avocado","peanut","egg","wheat","sesame"]},
 {tm:"PM",n:"Nut-Tahini Yogurt",r:"Nut-tahini yogurt. Leftover sweet potato spears (from Day 22, if within 3 days).",items:["dairy","peanut","sesame"]}]},
 {d:24,w:4,t:"Banana",nf:"Banana 🍌",nt:"🍌 Potassium · Carrier",meals:[
-{tm:"AM",n:"Banana + Allergen Pancake + Egg",r:"Cut banana in half. Leave skin on bottom half for grip — Tessa holds the skin and gnaws the exposed fruit. DEFROST PANCAKE: mash with breast milk, swirl in some mashed banana for sweetness. Egg from batch. OPEN TOFU (→ Days 24, 26).",items:["banana","peanut","egg","wheat","sesame"]},
+{tm:"AM",n:"Banana + Allergen Pancake + Egg",r:"Cut banana in half. Leave skin on bottom half for grip — Tessa holds the skin and gnaws the exposed fruit. DEFROST PANCAKE: mash with yogurt, swirl in some mashed banana for sweetness. Egg from batch. OPEN TOFU (→ Days 24, 26).",items:["banana","peanut","egg","wheat","sesame"]},
 {tm:"PM",n:"Yogurt-Banana Mash + Tofu",r:"Mash banana into yogurt — babies love this combo. Tofu mash on side.",items:["dairy","soy"]}]},
 {d:25,w:4,t:"Broccoli",nf:"Broccoli 🥦",nt:"🩸 Iron · 🍊 Vit C",meals:[
-{tm:"AM",n:"Steamed Broccoli + Pancake",r:"BATCH STEAM: Cut 1 head into florets with long stems. Steam 10–12 min until very soft. Stem = handle! Serve 2–3 upright. Save rest (Days 25-27). DEFROST PANCAKE: mash with breast milk. BOIL EGGS Day 25 → Days 25-28.",items:["broccoli","peanut","egg","wheat","sesame"]},
+{tm:"AM",n:"Steamed Broccoli + Pancake",r:"BATCH STEAM: Cut 1 head into florets with long stems. Steam 10–12 min until very soft. Stem = handle! Serve 2–3 upright. Save rest (Days 25-27). DEFROST PANCAKE: mash with yogurt. BOIL EGGS Day 25 → Days 25-28.",items:["broccoli","peanut","egg","wheat","sesame"]},
 {tm:"PM",n:"Nut Yogurt + Avocado",r:"Nut yogurt. Leftover avocado (cut fresh if Day 23's is brown). Tahini drizzle.",items:["dairy","peanut","sesame"]}]},
 {d:26,w:4,t:"Lentils",nf:"Red Lentils 🍲",nt:"🩸🩸 Iron · Zinc · Protein",meals:[
 {tm:"AM",n:"Lentil Puree + Broccoli + Pancake",r:"BATCH COOK LENTILS (→ Days 26-28): Rinse ½ cup red lentils. Pot + 1½ cups water. Boil, simmer 15–20 min until mushy. Mash. Scoop ¼ cup for Tessa. 🍊 Serve with leftover broccoli — vitamin C boosts iron absorption! DEFROST PANCAKE.",items:["lentils","broccoli","peanut","egg","wheat","sesame"]},
@@ -245,7 +245,7 @@ const W48=[
 {tm:"AM",n:"Chicken Strips + Lentils + Pancake",r:"SLOW-COOK: 2 drumsticks in pot, cover with water. Boil → simmer covered 45–60 min until falling off bone. Shred (discard skin/bones). Thin strips or puree. Save extra for Day 29. Leftover lentils. DEFROST PANCAKE. BOIL SHRIMP (→ Days 27, 29).",items:["chicken","lentils","peanut","egg","wheat","sesame"]},
 {tm:"PM (Family!)",n:"Chicken Dinner 🍽️",r:"Family dinner with roasted veggies! Tessa (BEFORE salt): shredded chicken, broccoli, salmon mash. Nut-tahini yogurt.",items:["dairy","fish","shellfish"]}],fm:"Chicken & Veggie Dinner"},
 {d:28,w:4,t:"Hemp Seeds",nf:"Hemp Seeds 🌱",nt:"🩸 Iron · Zinc · 🐟 Omega-3",meals:[
-{tm:"AM",n:"Hemp-Sprinkled Pancake + Egg + Lentils",r:"DEFROST PANCAKE: mash with breast milk. Sprinkle 1–2 tsp hemp seeds over EVERYTHING — the pancake, leftover lentils (last day of batch). Roll egg strip in hemp seeds too. Iron + zinc + omega-3 in one easy habit! Start doing this every morning.",items:["hemp_seeds","peanut","egg","wheat","sesame"]},
+{tm:"AM",n:"Hemp-Sprinkled Pancake + Egg + Lentils",r:"DEFROST PANCAKE: mash with yogurt. Sprinkle 1–2 tsp hemp seeds over EVERYTHING — the pancake, leftover lentils (last day of batch). Roll egg strip in hemp seeds too. Iron + zinc + omega-3 in one easy habit! Start doing this every morning.",items:["hemp_seeds","peanut","egg","wheat","sesame"]},
 {tm:"PM",n:"Nut Yogurt + Banana + Sweet Potato",r:"Nut yogurt with hemp seeds sprinkled on top. Banana. Steam fresh sweet potato if needed.",items:["dairy","peanut"]}],edu2:["hemp"]},
 // WEEK 5 — Expanding Palate (Mango + Pepper on weekend!)
 {d:29,w:5,t:"Mango ⚠️",nf:"Mango 🥭",nt:"🍊 Vit C (iron booster!)",meals:[
@@ -324,7 +324,7 @@ const W48=[
 {tm:"AM",n:"Steamed Chayote + Pancake + Salmon",r:"Peel chayote, halve, remove seed. Cut spears. Steam 12–15 min. Finger food. DEFROST PANCAKE. Leftover salmon.",items:["chayote","peanut","egg","wheat","sesame","fish"]},
 {tm:"PM",n:"Nut Yogurt + Egg",r:"Nut yogurt. Egg strip with hemp seed sprinkle.",items:["dairy","peanut"]}]},
 {d:53,w:8,t:"Cinnamon",nf:"Cinnamon 🫙",nt:"Anti-inflammatory",meals:[
-{tm:"AM",n:"Cinnamon-Apple Pancake",r:"Peel 1 apple, cut wedges. Steam 10 min. Mash. DEFROST PANCAKE: mash with breast milk + mashed apple + pinch cinnamon. Warm, cozy! COOK LENTILS (→ Days 53-55). BOIL EGGS. BOIL SHRIMP. OPEN TOFU (→ Days 53, 55).",items:["cinnamon","peanut","egg","wheat","sesame"]},
+{tm:"AM",n:"Cinnamon-Apple Pancake",r:"Peel 1 apple, cut wedges. Steam 10 min. Mash. DEFROST PANCAKE: mash with yogurt + mashed apple + pinch cinnamon. Warm, cozy! COOK LENTILS (→ Days 53-55). BOIL EGGS. BOIL SHRIMP. OPEN TOFU (→ Days 53, 55).",items:["cinnamon","peanut","egg","wheat","sesame"]},
 {tm:"PM",n:"Lentil Yogurt + Tofu + Shrimp",r:"Lentils stirred into tahini yogurt. Tofu mash. Shrimp puree. 🍊 Serve with leftover bell pepper or mango for iron+vitamin C!",items:["dairy","sesame","soy","shellfish"]}]},
 {d:54,w:8,t:"Cumin",nf:"Cumin 🫙",nt:"Digestive · Savory",meals:[
 {tm:"AM",n:"Cumin-Lentil Mash + Pancake + Salmon",r:"Leftover lentils with pinch cumin — savory! DEFROST PANCAKE. BAKE SALMON.",items:["cumin","peanut","egg","wheat","sesame","fish"]},
